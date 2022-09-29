@@ -1,4 +1,4 @@
-# Simple-Data-Encryption
+# Data-Encryption
 
 When communicating, the program encrypts data by performing bitwise XOR encryption of the ASCII value of each character in the message, converts the encrypted character to 7-bit binary string, and copying the encrypted binary string to a character array displayed as a specific QR code structure. 
 
